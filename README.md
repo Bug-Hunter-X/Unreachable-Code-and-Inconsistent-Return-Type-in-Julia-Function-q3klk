@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia: unreachable code and inconsistent return types within functions. The `bug.jl` file showcases the problematic function. The `bugSolution.jl` file provides a corrected version.
